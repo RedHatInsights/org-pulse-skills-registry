@@ -766,14 +766,14 @@ plugins:
       name: Jason Greene
     source:
       type: github
-      repo: opendatahub-io/assess-rfe
+      repo: RedHatInsights/assess-rfe
       ref: main
     contract_summary:
       focus_functions: [review, generate]
       focus_metrics: [task_success, evidence_completeness, output_quality, latency]
       notes: "This plugin centers on rubric-based RFE assessment and rubric export."
-    homepage: https://github.com/opendatahub-io/assess-rfe
-    repository: https://github.com/opendatahub-io/assess-rfe
+    homepage: https://github.com/RedHatInsights/assess-rfe
+    repository: https://github.com/RedHatInsights/assess-rfe
     skills:
       - name: assess-rfe
         description: Assess RFEs against quality criteria using a structured rubric

@@ -67,7 +67,7 @@
       },
       "category": "evaluation",
       "description": "Assess RFEs against quality criteria using a structured rubric.\n",
-      "homepage": "https://github.com/opendatahub-io/assess-rfe",
+      "homepage": "https://github.com/RedHatInsights/assess-rfe",
       "keywords": [
         "rfe",
         "rubric",
@@ -75,10 +75,10 @@
         "assessment"
       ],
       "name": "assess-rfe",
-      "repository": "https://github.com/opendatahub-io/assess-rfe",
+      "repository": "https://github.com/RedHatInsights/assess-rfe",
       "source": {
         "ref": "main",
-        "repo": "opendatahub-io/assess-rfe",
+        "repo": "RedHatInsights/assess-rfe",
         "source": "github"
       },
       "version": "1.0.0"
