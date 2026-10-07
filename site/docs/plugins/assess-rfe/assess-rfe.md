@@ -86,12 +86,12 @@ what-if analysis, and near-miss identification).
     <h3 class="skill-contract__section-title"><span class="skill-contract__section-name">Traceability</span></h3>
     <div class="skill-contract__row">
       <span class="skill-contract__field">Skill</span>
-      <div class="skill-contract__inline"><a class="skill-contract__path" href="https://github.com/opendatahub-io/assess-rfe/blob/a7674fef9a0de4107e3416f05aba2d0b8c019025/skills/assess-rfe/SKILL.md"><span class="skill-contract__ref-arrow" aria-hidden="true">&#x2197;</span><code>skills/assess-rfe/SKILL.md</code></a></div>
+      <div class="skill-contract__inline"><a class="skill-contract__path" href="https://github.com/RedHatInsights/assess-rfe/blob/a7674fef9a0de4107e3416f05aba2d0b8c019025/skills/assess-rfe/SKILL.md"><span class="skill-contract__ref-arrow" aria-hidden="true">&#x2197;</span><code>skills/assess-rfe/SKILL.md</code></a></div>
     </div>
     <div class="skill-contract__row">
       <span class="skill-contract__field">Supporting</span>
       <ul class="skill-contract__paths">
-        <li><a class="skill-contract__path" href="https://github.com/opendatahub-io/assess-rfe/blob/a7674fef9a0de4107e3416f05aba2d0b8c019025/skills/assess-rfe/scripts/agent_prompt.md"><span class="skill-contract__ref-arrow" aria-hidden="true">&#x2197;</span><code>skills/assess-rfe/scripts/agent_prompt.md</code></a></li>
+        <li><a class="skill-contract__path" href="https://github.com/RedHatInsights/assess-rfe/blob/a7674fef9a0de4107e3416f05aba2d0b8c019025/skills/assess-rfe/scripts/agent_prompt.md"><span class="skill-contract__ref-arrow" aria-hidden="true">&#x2197;</span><code>skills/assess-rfe/scripts/agent_prompt.md</code></a></li>
       </ul>
     </div>
   </section>
