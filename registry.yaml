@@ -770,7 +770,10 @@ plugins:
       # Pinned to the last commit carrying the five-criteria /10 PASS/FAIL rubric.
       # d61d181e (status-aware rubric) changed the scores.csv schema, which the
       # rfe-assessor org-pulse relay cannot consume. Unpin once org-pulse adopts it.
-      ref: 4ab4ca25f1186f7d14025d7da7cd641ff7700c46
+      # `ref` must name a branch or tag; the commit goes in `sha`, which is what
+      # Claude Code actually checks out when both are present.
+      ref: main
+      sha: 4ab4ca25f1186f7d14025d7da7cd641ff7700c46
     contract_summary:
       focus_functions: [review, generate]
       focus_metrics: [task_success, evidence_completeness, output_quality, latency]
