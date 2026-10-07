@@ -77,8 +77,9 @@
       "name": "assess-rfe",
       "repository": "https://github.com/RedHatInsights/assess-rfe",
       "source": {
-        "ref": "4ab4ca25f1186f7d14025d7da7cd641ff7700c46",
+        "ref": "main",
         "repo": "RedHatInsights/assess-rfe",
+        "sha": "4ab4ca25f1186f7d14025d7da7cd641ff7700c46",
         "source": "github"
       },
       "version": "1.0.0"
